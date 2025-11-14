@@ -47,9 +47,16 @@ git clone https://github.com/YOUR-USERNAME/signup.git
 
 ---
 
+## 🧩 How to Run Locally
+
+  git clone https://github.com/Mritunjay67/Signup-page.git
+  cd Signup-page
+  Then open in your browser
+  
+---
+
 ## 🌐 Live Demo (GitHub Pages)
-(Add your link after enabling GitHub Pages)
-https://YOUR-USERNAME.github.io/signup/
+🔗 https://mritunjay67.github.io/Signup-page/
 
 
 
@@ -65,5 +72,6 @@ https://YOUR-USERNAME.github.io/signup/
 
 ## 👤 Author
 **Mritunjay Gupta**  
+🔗 GitHub: https://github.com/Mritunjay67
 📩 Email: *mritunjayg32@gmail.com*  
 🔗 LinkedIn: *linkedin.com/in/mritunjay-gupta-882875282*
