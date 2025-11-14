@@ -33,8 +33,7 @@ signup-project/
 │── signup.html
 │── signup.css
 │── user.js
-│── assets/
-│ └── screenshots/
+│── fly-logo.png
 
 
 ---
