@@ -41,7 +41,7 @@ signup-project/
 
 ## ▶️ How to Run
 1. Clone the project:
-git clone https://github.com/YOUR-USERNAME/signup.git
+git clone  https://mritunjay67.github.io/Signup-page/
 2. Open **signup.html** in your browser.
 3. Done 🎉
 
