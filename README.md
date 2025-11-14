@@ -30,24 +30,19 @@ Designed for modern websites and apps that need a smooth and simple account-crea
 
 ## 📂 Folder Structure
 signup-project/
-│── index.html
-│── style.css
-│── script.js
+│── signup.html
+│── signup.css
+│── user.js
 │── assets/
 │ └── screenshots/
 
-yaml
-Copy code
 
 ---
 
 ## ▶️ How to Run
 1. Clone the project:
 git clone https://github.com/YOUR-USERNAME/signup.git
-
-yaml
-Copy code
-2. Open **index.html** in your browser.
+2. Open **signup.html** in your browser.
 3. Done 🎉
 
 ---
@@ -56,8 +51,7 @@ Copy code
 (Add your link after enabling GitHub Pages)
 https://YOUR-USERNAME.github.io/signup/
 
-yaml
-Copy code
+
 
 ---
 
