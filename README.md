@@ -47,14 +47,6 @@ git clone https://github.com/YOUR-USERNAME/signup.git
 
 ---
 
-## 🧩 How to Run Locally
-
-  git clone https://github.com/Mritunjay67/Signup-page.git
-  cd Signup-page
-  Then open in your browser
-  
----
-
 ## 🌐 Live Demo (GitHub Pages)
 🔗 https://mritunjay67.github.io/Signup-page/
 
